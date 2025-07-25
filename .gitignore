@@ -1,0 +1,6 @@
+target/
+.DS_Store
+.vscode/
+.env
+node_modules/
+.snfoundry_cache/
